@@ -1,8 +1,8 @@
 # Talk-bot
 In this project i have made a virtual assistant. 
 A virtual Assistant that can do many things.
-To run the program, please install the following modules ->
-pip install speech_recognition
+#Prerequisites
+[pip install speech_recognition]
 pip install playsound
 pip install gtts
 pip install ssl
