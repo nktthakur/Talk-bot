@@ -1,17 +1,19 @@
 # Talk-bot
 In this project i have made a virtual assistant. 
 A virtual Assistant that can do many things.
-#Prerequisites
-[pip install speech_recognition]
-pip install playsound
-pip install gtts
-pip install ssl
-pip install Image
-pip install pyautogui 
-pip install pyttsx3
-pip install bs4
-pip install pipwin
-pip install pyaudio
 
-After installing those modules, run talk_bot.py. It will start listening and reply as response.
+# Prerequisites
+<pre>
+<code>pip install speech_recognition</code> </br></pre>
+<pre><code>pip install playsound</code> </br></pre>
+<pre><code>pip install gtts</code> </br></pre>
+<pre><code>pip install ssl</code> </br></pre>
+<pre><code>pip install Image</code> </br></pre>
+<pre><code>pip install pyautogui </code> </br></pre>
+<pre><code>pip install pyttsx3</code> </br></pre>
+<pre><code>pip install bs4</code> </br></pre>
+<pre><code>pip install pipwin</code> </br></pre>
+<pre><code>pip install pyaudio</code> </br></pre>
+
+After installing those modules, run talk_bot.py. It will start listening and reply accordingly.
 
